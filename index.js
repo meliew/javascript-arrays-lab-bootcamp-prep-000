@@ -31,3 +31,13 @@ function prependKitten(newArray, array, element ) {
 
 return newArray = ["Arnold", ...kittens]
 }
+
+function removeLastKitten() {
+
+
+}
+
+function removeFirstKitten() {
+
+
+}
