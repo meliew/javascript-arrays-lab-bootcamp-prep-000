@@ -24,5 +24,5 @@ function destructivelyRemoveFirstKitten(array) {
 }
 
 function appendKitten(newArray, array, element) {
-  return moreKittens = [...kittens, "Bob"]
+  return newArray = [...kittens, "Bob"]
 }
