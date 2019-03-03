@@ -20,5 +20,9 @@ kittens.pop();
 
 function destructivelyRemoveFirstKitten(array) {
   kittens.shift();
-  
+
+}
+
+function appendKitten(newArray, array, element) {
+  return moreKittens = [...kittens, "Bob"]
 }
