@@ -40,6 +40,9 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
+  const newKittens = [...kittens];
+  newKittens.shift();
+  return newKittens;
 
 
 }
